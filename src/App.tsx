@@ -1,6 +1,6 @@
 const nama = "Arya";
 const umur = 18;
-const hobi = ["main epep", "dan coding"];
+const hobi = ["main epep"];
 
 export function Profil() {
   return (
